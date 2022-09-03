@@ -2,8 +2,8 @@
 
 import datetime
 
-lower =  999999999
-upper = 1100000099
+lower =  100
+upper = 250
 
 print("Prime numbers between", lower, "and", upper, "are:")
 
