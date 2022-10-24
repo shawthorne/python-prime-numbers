@@ -3,7 +3,7 @@
 import datetime
 
 lower =  100
-upper = 250
+upper = 102
 
 print("Prime numbers between", lower, "and", upper, "are:")
 
